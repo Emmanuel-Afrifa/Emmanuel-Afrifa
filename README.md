@@ -1,6 +1,6 @@
 # Hi, I'm Emmanuel Afrifa ✨👋👋
 
-I'm a mathematics graduate interested in the applications of mathematics in technology. I would like to pursue a career as a data scientist or software developer.
+I'm a mathematics graduate interested in the applications of mathematics in the technological sector. I would like to pursue a career as a data scientist or software developer.
 
 ```yaml
      location:  Ghana
