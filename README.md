@@ -63,7 +63,7 @@ width=48% height=200px
 
 #### Typesetting
 <p align="left">
-     <img width=95px height=60px alt="latex" src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" />
+     <img width=120px height=60px alt="latex" src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" />
 </p>
 
 #### Operating Systems
