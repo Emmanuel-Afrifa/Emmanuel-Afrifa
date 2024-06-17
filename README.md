@@ -61,6 +61,10 @@ width=48% height=200px
     <img width=60px height=60px alt="figma" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png"/>
 </p>
 
+#### Typesetting
+<p align="left">
+     <img width=95px height=60px alt="latex" src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" />
+</p>
 
 #### Operating Systems
 <p align="left">
