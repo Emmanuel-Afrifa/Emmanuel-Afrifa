@@ -85,7 +85,7 @@ Developer Forums
     <img width=95px height=60px alt="FreeCodeCamp" src="https://raw.githubusercontent.com/shgysk8zer0/logos/master/freecodecamp-logo.svg"/>
     <img width=95px height=60px alt="GeekforGeeks" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c"/>
     <img width=95px height=60px alt="Khan Academy" src="https://www.vectorlogo.zone/logos/khanacademy/khanacademy-ar21.svg"/>
-    <img width=95px height=60px alt="MDN Web Docs" src="https://upload.wikimedia.org/wikipedia/commons/1/16/MDN_Web_Docs_full_logo.svg"/>
+    <!-- <img width=95px height=60px alt="MDN Web Docs" src="https://upload.wikimedia.org/wikipedia/commons/1/16/MDN_Web_Docs_full_logo.svg"/> -->
     <img width=95px height=60px alt="Udacity" src="https://www.vectorlogo.zone/logos/udacity/udacity-ar21.svg"/>
     <img width=95px height=60px alt="Udemy" src="https://www.vectorlogo.zone/logos/udemy/udemy-ar21.svg"/>
     <img width=95px height=60px alt="Sololearn" src="https://vectorwiki.com/images/4ajmm__sololearn.svg"/>
