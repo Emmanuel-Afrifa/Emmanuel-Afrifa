@@ -16,9 +16,9 @@
 
 ## Github Stats
 <div style="display:flex; flex-wrap: wrap; max-width: 90%; justify-content: center; align-items: center; flex-direction:column">
-    <img alt="profile-stats" width=50% height=200px src="https://github-readme-stats.vercel.app/api?username=Emmanuel-Afrifa&theme=dark&show_icons=true&hide_border=true&count_private=true">
-    <img alt="top languages" width=50% height=185px src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuel-Afrifa&theme=dark&show_icons=true&hide_border=true&layout=compact">
-    <img width=50% height=200px alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Emmanuel-Afrifa&theme=dark&hide_border=true">
+    <img alt="profile-stats" width=50% height=200px src="https://github-readme-stats.vercel.app/api?username=Emmanuel-Afrifa&theme=react&show_icons=true&hide_border=true&count_private=true">
+    <img alt="top languages" width=50% height=185px src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuel-Afrifa&theme=react&show_icons=true&hide_border=true&layout=compact">
+    <img width=50% height=200px alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Emmanuel-Afrifa&theme=react&hide_border=true">
 </div>
 <!--
 <div style="display:flex; justify-content:center; align-items:center">
