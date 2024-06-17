@@ -1,4 +1,18 @@
-## Hi there 👋
+# Hi, I'm Emmanuel Afrifa ✨👋👋
+
+```yaml
+     location:  Ghana
+
+    Education:  Master's Degree in Mathematical Sciences,
+                Bachelor's Degree in Mathematics,
+
+    Interests:  Artificial Intelligence (AI),
+                Machine Learning (ML),
+                Deep Learning (DL),
+                Frontend Development
+                
+    Active Learning: Deep Learning                  
+```
 
 <!--
 **Emmanuel-Afrifa/Emmanuel-Afrifa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
