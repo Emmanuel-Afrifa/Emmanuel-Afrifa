@@ -20,6 +20,7 @@ I'm a mathematics graduate interested in the applications of mathematics in the 
 <div style="display:flex; flex-wrap: wrap; max-width: 90%; justify-content: center; align-items: center; flex-direction:column">
     <!-- <img alt="profile-stats" width=50% height=200px src="https://github-readme-stats.vercel.app/api?username=Emmanuel-Afrifa&theme=react&show_icons=true&hide_border=true&count_private=true"> -->
      [![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emmanuel-Afrifa)](https://github.com/anuraghazra/github-readme-stats)
+     ![Emma's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emmanuel-Afrifa&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
     <img alt="top languages" width=50% height=185px src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuel-Afrifa&theme=react&show_icons=true&hide_border=true&layout=compact">
     <img width=50% height=200px alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Emmanuel-Afrifa&theme=react&hide_border=true">
 </div>
