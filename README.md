@@ -11,7 +11,7 @@ I'm a mathematics graduate interested in the applications of mathematics in the 
     Interests:  Artificial Intelligence (AI),
                 Machine Learning (ML),
                 Deep Learning (DL),
-                Data Science
+                Data Science,
                 Frontend Development
                 
     Active Learning: Deep Learning                  
