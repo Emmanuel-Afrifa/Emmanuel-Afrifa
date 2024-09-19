@@ -11,6 +11,7 @@ I'm a mathematics graduate interested in the applications of mathematics in the 
     Interests:  Artificial Intelligence (AI),
                 Machine Learning (ML),
                 Deep Learning (DL),
+                Data Science
                 Frontend Development
                 
     Active Learning: Deep Learning                  
@@ -54,12 +55,28 @@ width=48% height=200px
     <img width=60px height=60px alt="MATLAB" src="https://user-images.githubusercontent.com/25181517/192106593-610ee31c-995e-4f24-b8e1-0f18eead6fae.png"/>
 </p>
 
+#### ML/DL Libraries
+<p align="left">
+    <img width=95px height=60px alt="Scikit-Learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
+    <img width=60px height=60px alt="TesorFlow" src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png"/>
+</p>
+
+#### Data Analysis and Visualization Libraries
+<p align="left">
+    <img width=95px height=60px alt="Matplotlib" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/matplotlib.svg"/>
+    <img width=95px height=60px alt="NumPy" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"/>
+    <img width=95px height=60px alt="Pandas" src="https://raw.githubusercontent.com/valohai/ml-logos/master/pandas.svg"/>
+    <img width=95px height=60px alt="Plotly" src="https://www.vectorlogo.zone/logos/plotly/plotly-ar21.svg"/>
+    <img width=95px height=60px alt="SciPy" src="https://raw.githubusercontent.com/valohai/ml-logos/master/scipy.svg"/>
+</p>
+
 #### Frontend Web Development
 <p align="left">
     <img width=60px height=60px alt="HTML" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"/>
     <img width=60px height=60px alt="CSS" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"/>
     <img width=95px height=60px alt="jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
-    <img width=60px height=60px alt="figma" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png"/>
+     <img width=95px height=60px alt="reactjs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+    
 </p>
 
 #### Typesetting
@@ -121,16 +138,7 @@ width=48% height=200px
     <img width=95px height=60px alt="Visual Studio Code" src="https://gitlab.svg.zone/omniait/developer-logos/raw/master/logos/code-editor/vscode.svg"/>
 </p>
 
-#### ML/DL Libraries
-<p align="left">
-    <img width=95px height=60px alt="Matplotlib" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/matplotlib.svg"/>
-    <img width=95px height=60px alt="NumPy" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"/>
-    <img width=95px height=60px alt="Pandas" src="https://raw.githubusercontent.com/valohai/ml-logos/master/pandas.svg"/>
-    <img width=95px height=60px alt="Plotly" src="https://www.vectorlogo.zone/logos/plotly/plotly-ar21.svg"/>
-    <img width=95px height=60px alt="Scikit-Learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
-    <img width=95px height=60px alt="SciPy" src="https://raw.githubusercontent.com/valohai/ml-logos/master/scipy.svg"/>
-    <img width=60px height=60px alt="TesorFlow" src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png"/>
-</p>
+
 
 
 
