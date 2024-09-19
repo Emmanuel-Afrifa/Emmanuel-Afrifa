@@ -46,12 +46,17 @@ width=48% height=200px
 
 ## Skills/Technologies
 #### Programming Skills
+##### Proficient
 <p align="left" style="display:flex; justify-content:space-between; flex-direction:row;">
     <img width=60px height=60px alt="python" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png"/>
-    <img width=60px height=60px alt="c" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png"/>
-    <img width=60px height=60px alt="c++" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png"/>
     <img width=60px height=60px alt="javascript" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"/>
     <img width=60px height=60px alt="typescript" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png"/>
+</p>
+
+##### Basic Knowledge
+<p align="left" style="display:flex; justify-content:space-between; flex-direction:row;">
+    <img width=60px height=60px alt="c" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png"/>
+    <img width=60px height=60px alt="c++" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png"/>
     <img width=60px height=60px alt="MATLAB" src="https://user-images.githubusercontent.com/25181517/192106593-610ee31c-995e-4f24-b8e1-0f18eead6fae.png"/>
 </p>
 
