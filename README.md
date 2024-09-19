@@ -67,15 +67,16 @@ width=48% height=200px
      <img width=120px height=60px alt="latex" src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" />
 </p>
 
-#### Operating Systems
+<!-- #### Operating Systems
 <p align="left">
     <img width=60px height=60px alt="windows" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png"/>
     <img width=60px height=60px alt="ubuntu" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png"/>
     <img width=60px height=60px alt="Linux" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa"/>
 </p>
+-->
 
 
-Developer Forums
+<!-- Developer Forums
 <p align="left">
     <img width=95px height=60px alt="Kaggle" src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Kaggle_Logo.svg"/>
     <img width=95px height=60px alt="Quora" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/quora.svg"/>
@@ -83,8 +84,9 @@ Developer Forums
     <img width=60px height=60px alt="Slack" src="https://www.vectorlogo.zone/logos/slack/slack-tile.svg"/>
     <img width=95px height=60px alt="Discord" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/discord.svg"/>
 </p>
+-->
 
-
+<!--
 #### Online Learning Platforms
 <p align="left">
     <img width=95px height=60px alt="EdX" src="https://www.vectorlogo.zone/logos/edx/edx-ar21.svg"/>
@@ -92,12 +94,12 @@ Developer Forums
     <img width=95px height=60px alt="FreeCodeCamp" src="https://raw.githubusercontent.com/shgysk8zer0/logos/master/freecodecamp-logo.svg"/>
     <img width=95px height=60px alt="GeekforGeeks" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c"/>
     <img width=95px height=60px alt="Khan Academy" src="https://www.vectorlogo.zone/logos/khanacademy/khanacademy-ar21.svg"/>
-    <!-- <img width=95px height=60px alt="MDN Web Docs" src="https://upload.wikimedia.org/wikipedia/commons/1/16/MDN_Web_Docs_full_logo.svg"/> -->
     <img width=95px height=60px alt="Udacity" src="https://www.vectorlogo.zone/logos/udacity/udacity-ar21.svg"/>
     <img width=95px height=60px alt="Udemy" src="https://www.vectorlogo.zone/logos/udemy/udemy-ar21.svg"/>
     <img width=95px height=60px alt="Sololearn" src="https://vectorwiki.com/images/4ajmm__sololearn.svg"/>
     <img width=95px height=60px alt="Cisco Networking Academy" src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg"/>
 </p>
+-->
 
 ### Version Control
 <p>
@@ -128,7 +130,6 @@ Developer Forums
     <img width=95px height=60px alt="Scikit-Learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
     <img width=95px height=60px alt="SciPy" src="https://raw.githubusercontent.com/valohai/ml-logos/master/scipy.svg"/>
     <img width=60px height=60px alt="TesorFlow" src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png"/>
-    <img width=95px height=60px alt="Keras" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg"/>
 </p>
 
 
