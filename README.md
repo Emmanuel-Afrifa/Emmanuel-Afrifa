@@ -52,28 +52,42 @@ width=48% height=200px
 - [FrontendMentor](https://www.frontendmentor.io/profile/Emmanuel-Afrifa)
 
 
+#  Skills at a Glance
+- **Languages:** Python, JavaScript, TypeScript, VB.NET  
+- **ML/DS:** TensorFlow, scikit-learn, NumPy, Pandas  
+- **Frontend:** React, HTML/CSS  
+- **Tools:** Git, VSCode, LaTeX, Jupyter
+
 ## Skills/Technologies
 #### Programming Skills
-##### Proficient
+<!-- ##### Proficient -->
 <p align="left" style="display:flex; justify-content:space-between; flex-direction:row;">
     <img width=60px height=60px alt="python" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png"/>
     <img width=60px height=60px alt="javascript" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"/>
     <img width=60px height=60px alt="typescript" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png"/>
 </p>
 
+<!--
 ##### Basic Knowledge
 <p align="left" style="display:flex; justify-content:space-between; flex-direction:row;">
     <img width=60px height=60px alt="c" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png"/>
     <img width=60px height=60px alt="c++" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png"/>
     <img width=60px height=60px alt="MATLAB" src="https://user-images.githubusercontent.com/25181517/192106593-610ee31c-995e-4f24-b8e1-0f18eead6fae.png"/>
 </p>
+-->
 
 #### ML/DL Libraries
 <p align="left">
     <img width=95px height=60px alt="Scikit-Learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
     <img width=60px height=60px alt="TesorFlow" src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png"/>
+    <img width=95px height=60px alt="Matplotlib" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/matplotlib.svg"/>
+    <img width=95px height=60px alt="NumPy" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"/>
+    <img width=95px height=60px alt="Pandas" src="https://raw.githubusercontent.com/valohai/ml-logos/master/pandas.svg"/>
+    <img width=95px height=60px alt="Plotly" src="https://www.vectorlogo.zone/logos/plotly/plotly-ar21.svg"/>
+    <img width=95px height=60px alt="SciPy" src="https://raw.githubusercontent.com/valohai/ml-logos/master/scipy.svg"/>
 </p>
 
+<!--
 #### Data Analysis and Visualization Libraries
 <p align="left">
     <img width=95px height=60px alt="Matplotlib" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/matplotlib.svg"/>
@@ -82,19 +96,19 @@ width=48% height=200px
     <img width=95px height=60px alt="Plotly" src="https://www.vectorlogo.zone/logos/plotly/plotly-ar21.svg"/>
     <img width=95px height=60px alt="SciPy" src="https://raw.githubusercontent.com/valohai/ml-logos/master/scipy.svg"/>
 </p>
+-->
 
 #### Frontend Web Development
 <p align="left">
     <img width=60px height=60px alt="HTML" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"/>
     <img width=60px height=60px alt="CSS" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"/>
-    <img width=105px height=60px alt="jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
-     <img width=120px height=60px alt="reactjs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    
+    <img width=120px height=60px alt="reactjs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
 #### Typesetting
 <p align="left">
      <img width=120px height=60px alt="latex" src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" />
+     <img width=120px height=60px alt="markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />
 </p>
 
 <!-- #### Operating Systems
@@ -133,16 +147,16 @@ width=48% height=200px
 
 ### Version Control
 <p>
-      <img width=60px height=60px alt="Git" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" />
+     <img width=60px height=60px alt="Git" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" />
      <img width=60px height=60px alt="Github" src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/g/github-icon-2.svg" />
 </p>
 
-
+<!--
 #### Deploying Platform
 <p align="left">
     <img width=95px height=60px alt="Netlify" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_netlify.svg"/>
 </p>
-
+-->
 
 
 #### IDEs
