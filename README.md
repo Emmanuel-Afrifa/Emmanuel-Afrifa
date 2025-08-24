@@ -1,6 +1,16 @@
 # Hi, I'm Emmanuel Afrifa ✨👋👋
 
-I'm a mathematics graduate interested in the applications of mathematics in the technological sector. I would like to pursue a career as a data scientist or software developer.
+Passionate about solving real-world problems at the intersection of mathematics, data, and technology.
+
+I enjoy building machine learning models, crafting data-driven insights, and developing software solutions that make an impact.
+
+Currently exploring:
+
+- Machine Learning research (disease prediction, Bayesian inference, spatial modeling)
+
+- Software development (React, VB.NET)
+
+- AI applications in healthcare and beyond
 
 ```yaml
      location:  Ghana
@@ -12,9 +22,7 @@ I'm a mathematics graduate interested in the applications of mathematics in the 
                 Machine Learning (ML),
                 Deep Learning (DL),
                 Data Science,
-                Frontend Development
-                
-    Active Learning: Deep Learning                  
+                Frontend Development                
 ```
 
 ## Github Stats
@@ -140,7 +148,8 @@ width=48% height=200px
 #### IDEs
 <p align="left">
     <img width=95px height=60px alt="Jupyter Notebook" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"/>
-    <img width=95px height=60px alt="Visual Studio Code" src="https://gitlab.svg.zone/omniait/developer-logos/raw/master/logos/code-editor/vscode.svg"/>
+    <!-- <img width=95px height=60px alt="Visual Studio Code" src="https://gitlab.svg.zone/omniait/developer-logos/raw/master/logos/code-editor/vscode.svg"/> -->
+    <img width=95px height=60px alt="Visual Studio Code" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"/>
 </p>
 
 
